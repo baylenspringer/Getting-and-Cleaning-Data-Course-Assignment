@@ -1,7 +1,6 @@
 DATA DICTIONARY - Getting and Cleaning Data Course Project
-Date:  04/03/2017
 ---------------------------------------------------------------
-
+Date:  04/03/2017
 
 Data Table:  meanAndStdData
 ---------------------------------------------------------------
